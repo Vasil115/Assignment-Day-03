@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+}
+p{
+    padding-left: 18px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+h2{
+    padding-left: 12px;
+}
+img{
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 3px;
+    border: 2px solid black;
+    margin-left: 18px;
+}
+h1{
+    background-color: rgb(28, 151, 28);
+    color: white;
+    padding: 10px;
+    margin: 8px;   
+    font-family: sans-serif;
+}
+ul{
+    padding-left: 20px;
+}
+ol{
+    padding-left: 20px;
+}
+a{
+color: rgb(20, 169, 20);
+}
